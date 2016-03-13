@@ -19,7 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSString *str = @"liurui";
-    int a;
+    int a = 0;
 }
 
 - (void)didReceiveMemoryWarning {
